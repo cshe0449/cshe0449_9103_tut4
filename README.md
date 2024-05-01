@@ -1,29 +1,17 @@
-# cshe0449_9103_tut4
-This is my first change to the repo
+# cshe0449_9103_Week 8 Quiz 
 
-# Heading 1
-## Heading 2
-### Heading 3
-#### Heading 4
-##### Heading 5
-###### Heading 6
+## Part 1: Imaging Technique Inspiration
 
-**Bold Text** or __Bold Text__
+For my assignment, I find **generative art techniques**, particularly those involving **algorithmic patterns and fractals**, highly inspiring. The aspect I'd like to incorporate into my project is the concept of emergent complexity and self-similarity found in fractals like the Mandelbrot set. This technique offers a visually captivating way to represent intricate structures that evolve from simple rules, reflecting a sense of organic growth and complexity.
 
-*Italics Text* or _Italics Text_
+### Inspiration:
+1. Fractal image of the Mandelbrot Set
+![Fractal image of the Mandelbrot Set ](readmeImages/Fractal_image_of_the_Mandelbrot_Set.jpeg)
+2. Generative Art by Jared Tarbell
+![Sand Dollar art work](readmeImages/sandDollarPRN.jpeg)
+## Part 2: Coding Technique Exploration
 
-- Item 1
-- Item 2
-- Item 3
-    - Subitem 2.1
-    - Subitem 2.2
+To implement the imaging technique inspired by organic patterns in nature using p5.js, I would explore the use of Perlin noise, geometric shapes, colour blending, and animation. By leveraging p5.js's capabilities in drawing shapes, applying colours, and animating elements, I'm able capture the essence of the chosen artwork ["Wheels of furtune"](https://canvas.sydney.edu.au/courses/56592/files/35576064/preview) and create an interactive visualisation. One specific coding technique that could assist in achieving this effect is using classes to represent different layers of shapes and animating them to create a dynamic and layered composition. Additionally, [Perlin noise](https://openprocessing.org/sketch/2174234) can add organic randomness and texture to the artwork. 
 
-1. First Item
-2. Second Item
-3. Third Item
 
-[Link Text](https://www.google.com)
-
-![An image of a cat](http://placekitten.com/200/300)
-
-![An image of the Mona Lisa](readmeImages/Mona_Lisa_by_Leonardo_da_Vinci_500_x_700.jpg)
+![Sand Dollar art work](readmeImages/perlin_noise.jpg)
